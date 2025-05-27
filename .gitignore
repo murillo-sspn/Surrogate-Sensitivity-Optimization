@@ -1,2 +1,4 @@
 Tests_GPT
 /Tests_GPT/
+.venv
+/.venv/
